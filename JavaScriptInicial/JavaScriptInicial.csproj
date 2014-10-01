@@ -58,6 +58,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="inicial.html" />
+    <Content Include="scripts\funciones.js" />
+    <Content Include="scripts\numeros.js" />
     <Content Include="scripts\arrays.js" />
     <Content Include="scripts\script1.js" />
     <Content Include="Web.config" />
